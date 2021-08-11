@@ -9,7 +9,7 @@ To add a new route, follow the following structure
 app.use("api/[ENDPOINT]", NAME_OF_THE_ROUTE)
 
 */
-
+// bug fixed
 const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
